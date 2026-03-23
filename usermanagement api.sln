@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "user-management-api", "user-management-api", "{A6EA7785-2768-B63D-F2C0-029E8E481AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementApi", "user-management-api\UserManagementApi\UserManagementApi.csproj", "{7DD0BD2A-5D11-4CF5-7D40-CBA4D0B7708D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD0BD2A-5D11-4CF5-7D40-CBA4D0B7708D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD0BD2A-5D11-4CF5-7D40-CBA4D0B7708D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD0BD2A-5D11-4CF5-7D40-CBA4D0B7708D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD0BD2A-5D11-4CF5-7D40-CBA4D0B7708D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7DD0BD2A-5D11-4CF5-7D40-CBA4D0B7708D} = {A6EA7785-2768-B63D-F2C0-029E8E481AA9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2BA8801-9781-4494-BCF6-CE1B9B5708C5}
+	EndGlobalSection
+EndGlobal
